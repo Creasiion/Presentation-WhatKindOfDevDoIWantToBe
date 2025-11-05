@@ -10,7 +10,6 @@
             "driver": "PostgreSQL",
             "database": "workshopdb",
             "username": "postgres",
-            "password": "postgres"
         }
     ]
 }
